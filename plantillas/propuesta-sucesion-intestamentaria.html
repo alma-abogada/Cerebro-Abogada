@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Propuesta de servicios · Sucesión intestamentaria</title>
+<!--
+  PLANTILLA: Propuesta de servicios para sucesorio intestamentario ante notaría.
+  Basada en la propuesta del 03-feb-2026 (caso privado), sin datos de la clienta.
+  Cómo usarla: copia este archivo a entregables/<AAAA-MM-DD>-propuesta-sucesion-<iniciales>/ y cambia
+  cada texto marcado en amarillo (class="llenar"). Al terminar, borra la clase "llenar" o deja la regla
+  .llenar sin fondo para que no salga el amarillo en el PDF.
+  Colores tomados de su papelería (Integra Legal): rojo coral y durazno. Logo pendiente de cargar en marca/logo/.
+-->
+<style>
+  :root {
+    --rojo: #e5484d;
+    --rojo-suave: #ef7a7e;
+    --durazno: #fbd6bd;
+    --tinta: #1a1a1a;
+    --tinta-suave: #555;
+    --titulo-cliente: #3d4a5c;
+    --linea: #1a1a1a;
+  }
+  @page { size: Letter; margin: 18mm 20mm 10mm 20mm; }
+  * { box-sizing: border-box; }
+  body { font-family: Arial, "Helvetica Neue", sans-serif; color: var(--tinta); font-size: 11pt; line-height: 1.45; margin: 0; }
+
+  .membrete { display: flex; align-items: center; gap: 3mm; margin-bottom: 4mm; }
+  .membrete .ico { font-weight: 900; font-size: 22pt; letter-spacing: -2px; line-height: 1; }
+  .membrete .nombre { font-weight: 800; font-size: 19pt; letter-spacing: .02em; line-height: 1; }
+  .membrete .sub { font-size: 6.5pt; letter-spacing: .35em; color: var(--tinta-suave); margin-top: 1mm; }
+  .raya { display: flex; justify-content: flex-end; align-items: center; gap: 1.5mm; margin: 0 -20mm 6mm 0; }
+  .raya i { width: 2.2mm; height: 2.2mm; border-radius: 50%; background: var(--rojo); display: inline-block; }
+  .raya b { width: 75mm; height: .6mm; background: var(--rojo); display: inline-block; }
+
+  .fecha { text-align: right; margin-bottom: 8mm; }
+  .destinatario { font-weight: 700; color: var(--titulo-cliente); text-transform: uppercase; }
+  .presente { margin-bottom: 6mm; }
+  p { margin: 0 0 4mm; text-align: justify; }
+  .sangria { text-indent: 12mm; }
+
+  table { width: 100%; border-collapse: collapse; margin: 3mm 0 6mm; font-size: 10.5pt; }
+  th, td { border: 1px solid var(--linea); padding: 1.5mm 2.5mm; vertical-align: top; text-align: left; }
+  th { background: var(--durazno); font-weight: 400; }
+  td.etapa { text-align: center; }
+  td.monto { font-weight: 700; white-space: nowrap; }
+
+  .firma { margin-top: 8mm; font-weight: 700; line-height: 1.3; }
+  .cierre-raya { display: flex; align-items: center; gap: 1.5mm; margin-top: 4mm; }
+  .cierre-raya b { width: 65mm; height: .6mm; background: var(--rojo); display: inline-block; }
+  .cierre-raya i { width: 2.2mm; height: 2.2mm; border-radius: 50%; background: var(--rojo); display: inline-block; }
+
+  body { padding-bottom: 20mm; }
+  .pie { position: fixed; bottom: 0; left: 0; right: 0; height: 13mm; background: repeating-linear-gradient(115deg, var(--rojo) 0 6mm, var(--rojo-suave) 6mm 7mm);
+         color: #fff; display: flex; align-items: center; justify-content: center; font-size: 9pt; }
+
+  /* Lo que hay que llenar en cada propuesta. Para el PDF final, quita el fondo amarillo. */
+  .llenar { background: #fff3a3; }
+
+  @media print { body { -webkit-print-color-adjust: exact; print-color-adjust: exact; } }
+</style>
+</head>
+<body>
+
+  <!-- Cuando esté el logo en marca/logo/, cambia este bloque por: <img src="../marca/logo/logo.png" alt="Integra Legal" style="height:16mm"> -->
+  <div class="membrete">
+    <div class="ico">⊤⊥</div>
+    <div>
+      <div class="nombre">INTEGRA LEGAL</div>
+      <div class="sub">DESPACHO JURÍDICO</div>
+    </div>
+  </div>
+  <div class="raya"><i></i><i></i><i></i><b></b></div>
+
+  <div class="fecha">Tijuana, B.C. a <span class="llenar">[día] de [mes] de [año]</span></div>
+
+  <div class="destinatario"><span class="llenar">[SR. / SRA. NOMBRE COMPLETO DEL CLIENTE]</span></div>
+  <div class="presente">PRESENTE. -</div>
+
+  <p class="sangria">Anteponiendo un cordial saludo, a través del presente se le hace llegar propuesta de servicios y cotización
+  de los mismos para llevar a cabo <b>sucesorio intestamentario ante notaría</b> de <span class="llenar">[municipio]</span>,
+  Baja California, a fin de regularizar el predio identificado con clave catastral <span class="llenar">[clave catastral]</span>
+  y con un valor catastral de <span class="llenar">$[valor catastral]</span> m.n.</p>
+
+  <p>Se le informa que, de conformidad con lo comentado el pasado <span class="llenar">[fecha de la reunión]</span>, el costo de
+  los honorarios sería del <span class="llenar">20%</span> del valor de la operación, tomando en consideración el valor más bajo,
+  que es el catastral.<br>
+  <b>Siendo la inversión en honorarios la de <span class="llenar">$[total de honorarios]</span> pesos moneda nacional.</b></p>
+
+  <p>Los gastos se requerirán conforme al avance procesal de la siguiente manera:</p>
+
+  <table>
+    <tr><th style="width:20%"></th><th style="width:27%">Avance procesal cumplido</th><th style="width:18%">Cantidad</th><th>Concepto</th></tr>
+    <tr><td>Primer pago</td><td class="etapa">Al iniciar</td><td class="monto"><span class="llenar">$[monto]</span></td><td>Honorarios legales + honorarios notariales por inicio</td></tr>
+    <tr><td>Segundo pago</td><td class="etapa">A la firma de declaración de herederos y nombramiento de albacea</td><td class="monto"><span class="llenar">$[monto]</span></td><td>Honorarios legales</td></tr>
+    <tr><td>Tercer pago</td><td class="etapa">1 mes después de la firma anterior</td><td class="monto"><span class="llenar">$[monto]</span></td><td>Gastos administrativos</td></tr>
+    <tr><td>Pago final</td><td class="etapa">Firma de escritura de adjudicación (fin)</td><td class="monto"><span class="llenar">$[monto]</span></td><td>Honorarios legales + honorarios notariales</td></tr>
+  </table>
+
+  <p>Los gastos administrativos se incluyen en la tabla para su consideración. Gastos adicionales, tales como traducción de
+  actas, impuestos (si llegaran a aplicar) y derechos registrales, no están incluidos y serán cotizados una vez que se esté
+  en esa etapa procesal y se cuente con avalúo.</p>
+
+  <p>El tiempo estimado para finalizar el presente proceso es de <span class="llenar">8 meses</span>, tiempo que dependerá de la
+  disponibilidad de la familia para presentarse cuando sea requerida por la notaría.</p>
+
+  <p>Agradeciendo su confianza, quedo a sus órdenes para cualquier duda o aclaración.</p>
+
+  <div class="firma">Lic. Alma de Jesús Castillo Ramos<br>Abogada Titular</div>
+  <div class="cierre-raya"><b></b><i></i><i></i><i></i></div>
+
+  <div class="pie">☎&nbsp; +66 45 691 337</div>
+</body>
+</html>
