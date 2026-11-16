@@ -2,12 +2,14 @@
 # Formato: contrato de prestación de servicios profesionales (iguala mensual)
 
 Plantilla en Word: `plantillas/contrato-prestacion-servicios.docx`. Lo que se llena va en **[CORCHETES]** y resaltado
-en amarillo. Las cláusulas nuevas que propuse van en verde: Alma decide si se quedan o no.
+en amarillo. Lo verde solo va si el cliente tiene filiales.
 
 ## Partes
 - **"EL CLIENTE"**: persona moral (por conducto de su representante) o persona física.
 - **"LAS PROFESIONISTAS"**: Despacho Jurídico Integra Legal, representado por la Lic. Alma de Jesús Castillo Ramos
   (Licenciada en Derecho) y la Lic. Rosa Angélica Valencia López (Licenciada en Criminología).
+
+**Cláusulas:** van del I al XIX (ver la plantilla).
 - Domicilio del despacho: Misión de San Diego 2913, Zona Río, Tijuana, C.P. 22010.
 
 ## Estructura
@@ -63,7 +65,11 @@ nacional)". Letra Cambria 11, justificado, tamaño carta.
   California". Hay que confirmar que ese arancel exista y siga vigente. `[verificar]`. Otra opción es cobrar la parte
   proporcional de la iguala del mes.
 - **Facultades del representante**: no se declara con qué poder firma el gerente general. Se agregó como declaración opcional.
-- **Cláusulas opcionales** que propuse, en verde en la plantilla:
-  - confidencialidad y secreto profesional;
-  - terminación anticipada a petición de LAS PROFESIONISTAS, con aviso previo;
-  - qué pasa si el pago se atrasa (suspender el servicio).
+- **Aprobado por Alma el 2026-11-15**, ya fijo en la plantilla:
+  - declaración de facultades del representante;
+  - XVII, confidencialidad y secreto profesional;
+  - XVIII, terminación por LAS PROFESIONISTAS con 30 días de aviso;
+  - XIX, suspensión del servicio si el pago se atrasa;
+  - Centro de Conciliación y Tribunales Laborales en lugar de Juntas;
+  - INFONACOT en lugar de FONACOT.
+- **Sigue abierto**: en la XVI, elegir con cada cliente entre el arancel y la parte proporcional de la iguala.

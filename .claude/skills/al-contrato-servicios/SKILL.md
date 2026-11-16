@@ -23,7 +23,7 @@ Plantilla: `plantillas/contrato-prestacion-servicios.docx`. Formato y revisión:
 - **Poderes**: si se otorgan, con qué extensión territorial y por cuánto tiempo.
 - **Duración** y fecha de firma.
 - ¿Firman las dos profesionistas (Alma y la Lic. Rosa Angélica Valencia López) o solo Alma?
-- ¿Se quedan las **cláusulas opcionales** (en verde): confidencialidad, terminación por las profesionistas y atraso en el pago?
+- Para la cláusula XVI: ¿los honorarios pendientes se cobran según el arancel o por la parte proporcional de la iguala?
 - ¿Hay datos de los **testigos**?
 
 Si ella pega o deja el acta o la constancia del cliente, antes de leerla recuérdale en una línea que lo que tú lees
@@ -46,8 +46,7 @@ se procesa en los servidores de Anthropic (regla 3).
 6. Si ella lo pide, sácale un PDF con Word para revisarlo.
 
 ## 3. Qué revisa ella antes de firmar
-- Lo marcado `[verificar]` en `conocimiento/formatos/contrato-prestacion-servicios.md`: el Centro de Conciliación y los
-  Tribunales Laborales en lugar de las Juntas, y el arancel de Baja California en la cláusula de terminación.
+- Las cláusulas XVII a XIX y el cambio a Centro de Conciliación los aprobó el 2026-11-15: ya no se le preguntan.
 - La lista de trámites y el monto.
 - Tú no decides cláusulas nuevas: las propones y ella decide (regla 4).
 

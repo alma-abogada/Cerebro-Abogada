@@ -7,7 +7,6 @@
 - [ ] Decirle a Claude dónde viven mis números (Google Sheets, Excel, sistema)
 - [ ] Usarlo todos los días esta semana y anotar qué me gustaría que hiciera solo
 
-- [ ] Revisar la plantilla de contrato de servicios: cláusulas en verde y lo marcado [verificar]
 
 ## Habilidades nuevas por armar (Claude: pregúntale a Alma cuándo trabajarlas)
 - [ ] **Redactor de documentos:** crear documentos, contratos o lo que Alma pida, e ir escribiendo juntas sus reglas (estructura, cláusulas base, estilo, qué nunca debe faltar). Se apoya en lo que ya existe (`al-documento`, `al-contrato-servicios`). (pedido 2026-11-15)
@@ -18,6 +17,7 @@
 
 
 ## Terminado
+- [x] Aprobar correcciones y cláusulas nuevas del contrato de servicios (2026-11-15)
 - [x] Plantilla de contrato de prestación de servicios profesionales (2026-11-15)
 - [x] Plantilla de propuesta para sucesión intestamentaria (2026-11-15)
 - [x] Confirmar teléfono del pie de página: 664 569 1337 (2026-11-15)

@@ -9,3 +9,4 @@
 - **Correcciones:** numeración repetida (XII y XIII), referencia a la declaración equivocada en la cláusula VII, nombres de filiales que no coincidían, erratas, cierre y fecha incompletos, faltaban firmas de testigos y el nombre del representante.
 - **Pendiente de Alma:** decidir las cláusulas opcionales; verificar el Centro de Conciliación en lugar de las Juntas, el arancel de Baja California y el nombre INFONACOT.
 - **No se revisó visualmente** el diseño del Word, por falta de una herramienta para ver las páginas.
+- **Aprobación:** Alma aprobó todas las propuestas: facultades del representante, cláusulas XVII a XIX, Centro de Conciliación e INFONACOT. Ya quedaron fijas (sin verde). Sigue abierto, caso por caso, si la XVI usa el arancel o la parte proporcional.
