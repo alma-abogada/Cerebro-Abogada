@@ -72,4 +72,4 @@ nacional)". Letra Cambria 11, justificado, tamaño carta.
   - XIX, suspensión del servicio si el pago se atrasa;
   - Centro de Conciliación y Tribunales Laborales en lugar de Juntas;
   - INFONACOT en lugar de FONACOT.
-- **Sigue abierto**: en la XVI, elegir con cada cliente entre el arancel y la parte proporcional de la iguala.
+- **XVI, terminación**: Alma decidió (2026-11-15) cobrar la **parte proporcional de la iguala** por los días transcurridos del mes, y no por arancel.

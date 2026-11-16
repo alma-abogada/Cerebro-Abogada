@@ -23,7 +23,6 @@ Plantilla: `plantillas/contrato-prestacion-servicios.docx`. Formato y revisión:
 - **Poderes**: si se otorgan, con qué extensión territorial y por cuánto tiempo.
 - **Duración** y fecha de firma.
 - ¿Firman las dos profesionistas (Alma y la Lic. Rosa Angélica Valencia López) o solo Alma?
-- Para la cláusula XVI: ¿los honorarios pendientes se cobran según el arancel o por la parte proporcional de la iguala?
 - ¿Hay datos de los **testigos**?
 
 Si ella pega o deja el acta o la constancia del cliente, antes de leerla recuérdale en una línea que lo que tú lees
