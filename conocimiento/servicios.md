@@ -6,3 +6,8 @@
 - Se cobra en 4 pagos según avance procesal (ver `conocimiento/formatos/propuesta-sucesion-intestamentaria.md`).
 - No incluye: traducción de actas, impuestos, derechos registrales.
 - Tiempo estimado de referencia: 8 meses.
+
+## Iguala mensual de consultoría y gestoría (contrato de prestación de servicios)
+<!-- fuente: contrato de octubre de 2026 (caso privado) -->
+- Referencia: un cliente persona moral con filiales, $12,000 m.n. al mes más IVA, pago el día 25 con 5 días de tolerancia, 12 meses. (Los montos de cada cliente los define Alma.)
+- Formato: `conocimiento/formatos/contrato-prestacion-servicios.md` · skill `al-contrato-servicios`.

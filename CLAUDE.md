@@ -30,6 +30,7 @@ para que mañana (o en otra computadora) sigas donde te quedaste.
 | `al-leer-documentos` | "Lee lo que dejé en la bandeja", "guarda este documento", "¿qué dice mi documento de…?". |
 | `al-documento` | "Hazme una carta / propuesta / guía / informe", cualquier documento con su imagen en PDF. |
 | `al-sistema-de-diseno` | "Armemos mi marca", "mi design system", "aquí está mi logo", "quiero cambiar un color / la letra". |
+| `al-contrato-servicios` | "Hazme un contrato de prestación de servicios", "contrato de iguala para un cliente nuevo". |
 | `al-tablero` | "Analiza este Excel", "hazme un tablero", "¿cómo van mis números?". |
 | `al-crear-skill` | "Quiero que esto lo hagas siempre así", "conviértelo en una skill". |
 | `al-guardar` | Al terminar algo importante o cuando diga "guarda", "acuérdate de esto". |
