@@ -32,6 +32,7 @@ para que mañana (o en otra computadora) sigas donde te quedaste.
 | `al-sistema-de-diseno` | "Armemos mi marca", "mi design system", "aquí está mi logo", "quiero cambiar un color / la letra". |
 | `al-contrato-servicios` | "Hazme un contrato de prestación de servicios", "contrato de iguala para un cliente nuevo". |
 | `al-tablero` | "Analiza este Excel", "hazme un tablero", "¿cómo van mis números?". |
+| `al-plazos-calendario` | "Pasa mis plazos al calendario", "¿qué tengo vencido?", "agrega una audiencia / un asunto". |
 | `al-crear-skill` | "Quiero que esto lo hagas siempre así", "conviértelo en una skill". |
 | `al-guardar` | Al terminar algo importante o cuando diga "guarda", "acuérdate de esto". |
 
