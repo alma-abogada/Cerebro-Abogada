@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Prueba de marca</title>
+<link rel="stylesheet" href="../../marca/tokens.css">
+<!-- Al copiar esta plantilla a entregables/<carpeta>/, cambia las rutas "../../marca/" por "../../../marca/". -->
+<style>
+  @page { size: Letter; margin: 18mm 20mm 22mm 20mm; }
+  * { box-sizing: border-box; }
+  body { font-family: var(--fuente-texto); color: var(--tinta); font-size: 11pt; line-height: 1.5; margin: 0; padding-bottom: 16mm; }
+  header img { height: 16mm; display: block; }
+  .raya { display: flex; justify-content: flex-end; align-items: center; gap: 1.5mm; margin: 3mm -20mm 9mm 0; }
+  .raya i { width: 2.2mm; height: 2.2mm; border-radius: 50%; background: var(--acento); display: inline-block; }
+  .raya b { width: 75mm; height: .6mm; background: var(--acento); display: inline-block; }
+  h1 { font-family: var(--fuente-titulo); font-weight: 700; font-size: 18pt; line-height: 1.2; margin: 0 0 2mm; color: var(--tinta); }
+  h2 { font-family: var(--fuente-titulo); font-weight: 600; font-size: 12.5pt; margin: 8mm 0 2mm; color: var(--tinta); break-after: avoid; }
+  h2::before { content: ""; display: inline-block; width: 2mm; height: 2mm; border-radius: 50%; background: var(--acento); margin-right: 2.5mm; vertical-align: middle; }
+  p { margin: 0 0 3mm; text-align: justify; }
+  .meta { color: var(--tinta-suave); font-size: 10pt; margin-bottom: 8mm; }
+  table { width: 100%; border-collapse: collapse; margin: 4mm 0; font-size: 10.5pt; }
+  th, td { text-align: left; padding: 2mm 3mm; border: 1px solid var(--tinta); vertical-align: top; }
+  th { background: var(--durazno); font-weight: 600; }
+  .firma { margin-top: 12mm; font-weight: 700; line-height: 1.35; }
+  .pie { position: fixed; bottom: 0; left: 0; right: 0; height: 11mm;
+         background: repeating-linear-gradient(115deg, var(--acento) 0 6mm, var(--acento-suave) 6mm 7mm);
+         color: #fff; display: flex; align-items: center; justify-content: center; font-size: 9pt; letter-spacing: .03em; }
+  @media print { body { -webkit-print-color-adjust: exact; print-color-adjust: exact; } }
+</style>
+</head>
+<body>
+  <header><img src="../../marca/logo/logo.png" alt="Integra Legal · Despacho Jurídico"></header>
+  <div class="raya"><i></i><i></i><i></i><b></b></div>
+
+  <h1>Prueba de marca</h1>
+  <p class="meta">Tijuana, B.C., 15 de noviembre de 2026 · Documento de prueba</p>
+
+  <p>Este es un documento de prueba para revisar cómo se ven el logo, los colores y las letras de Integra Legal en una hoja tamaño carta. El texto de los párrafos va en gris carbón y con la letra del tríptico.</p>
+
+  <h2>Ejemplo de sección</h2>
+  <p>Así se ve una tabla con el encabezado durazno de su papelería:</p><table><tr><th>Etapa</th><th>Concepto</th><th>Monto</th></tr><tr><td>1</td><td>Ejemplo de concepto</td><td>$0.00</td></tr><tr><td>2</td><td>Ejemplo de concepto</td><td>$0.00</td></tr></table>
+
+  <div class="firma">Lic. Alma de Jesús Castillo Ramos<br>Abogada Titular</div>
+
+  <div class="pie">Integra Legal · Despacho Jurídico · Tel. 664 569 1337</div>
+</body>
+</html>

@@ -1,11 +1,20 @@
-/* Colores y tipografías de la marca. Valores sobrios por defecto: cámbialos cuando se cargue la marca. */
+/* Marca de Integra Legal · Despacho Jurídico.
+   Colores sacados del logo oficial y del tríptico (CMYK, mar-2023). Tipografías del tríptico, en su versión libre.
+   Las plantillas usan estas variables: si cambia un color, se cambia aquí y nada más. */
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&display=swap");
+
 :root {
-  --tinta: #1a1a1a;
-  --tinta-suave: #555555;
+  --tinta: #434142;          /* gris carbón del logo (CMYK 62/48/49/47). Texto y títulos. */
+  --tinta-suave: #666666;    /* textos secundarios: fechas, notas, pie */
+  --gris-logo: #848484;      /* gris medio del logo. Solo detalles o letras grandes, no párrafos (poco contraste). */
+  --acento: #ee4238;         /* rojo del logo (CMYK 0/75/62/0). Líneas, viñetas, detalles; nunca párrafos largos. */
+  --acento-suave: #ef7a7e;   /* rojo claro de la franja del pie de su papelería */
+  --durazno: #fbd6bd;        /* encabezado de tablas en su papelería */
   --fondo: #ffffff;
-  --fondo-alterno: #f4f4f2;
-  --acento: #1a1a1a;
+  --fondo-alterno: #f3f4f4;  /* gris muy claro para cajas y filas alternas */
+  --fondo-logo: #cfd3d4;     /* gris claro del fondo del logo original (tarjetas, portadas) */
   --linea: #d9d9d6;
-  --fuente-titulo: Georgia, "Times New Roman", serif;
-  --fuente-texto: "Helvetica Neue", Arial, sans-serif;
+
+  --fuente-titulo: "Montserrat", "Helvetica Neue", Arial, sans-serif;
+  --fuente-texto: "Source Sans 3", "Myriad Pro", "Helvetica Neue", Arial, sans-serif;
 }

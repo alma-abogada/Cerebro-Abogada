@@ -9,11 +9,11 @@
   Cómo usarla: copia este archivo a entregables/<AAAA-MM-DD>-propuesta-sucesion-<iniciales>/ y cambia
   cada texto marcado en amarillo (class="llenar"). Al terminar, borra la clase "llenar" o deja la regla
   .llenar sin fondo para que no salga el amarillo en el PDF.
-  Colores tomados de su papelería (Integra Legal): rojo coral y durazno. Logo pendiente de cargar en marca/logo/.
+  Colores tomados de su papelería (Integra Legal): rojo coral y durazno. Logo en marca/logo/logo.png (cargado 2026-11-15).
 -->
 <style>
   :root {
-    --rojo: #e5484d;
+    --rojo: #ee4238; /* rojo del logo, igual que marca/tokens.css */
     --rojo-suave: #ef7a7e;
     --durazno: #fbd6bd;
     --tinta: #1a1a1a;
@@ -62,14 +62,8 @@
 </head>
 <body>
 
-  <!-- Cuando esté el logo en marca/logo/, cambia este bloque por: <img src="../marca/logo/logo.png" alt="Integra Legal" style="height:16mm"> -->
-  <div class="membrete">
-    <div class="ico">⊤⊥</div>
-    <div>
-      <div class="nombre">INTEGRA LEGAL</div>
-      <div class="sub">DESPACHO JURÍDICO</div>
-    </div>
-  </div>
+  <!-- Al copiar a entregables/<carpeta>/, cambia la ruta a ../../marca/logo/logo.png -->
+  <div class="membrete"><img src="../marca/logo/logo.png" alt="Integra Legal · Despacho Jurídico" style="height:16mm"></div>
   <div class="raya"><i></i><i></i><i></i><b></b></div>
 
   <div class="fecha">Tijuana, B.C. a <span class="llenar">[día] de [mes] de [año]</span></div>
