@@ -10,7 +10,7 @@
 ## Lo está haciendo Antetodo
 - [ ] Revisión a la semana de la instalación
 
-- [ ] Confirmar teléfono del pie de página (+66 45 691 337 tal como sale en la papelería)
 
 ## Terminado
 - [x] Plantilla de propuesta para sucesión intestamentaria (2026-11-15)
+- [x] Confirmar teléfono del pie de página: 664 569 1337 (2026-11-15)

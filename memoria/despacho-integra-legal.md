@@ -7,7 +7,7 @@ metadata:
 
 - El despacho se llama **Integra Legal · Despacho Jurídico**, en Tijuana, B.C.
 - Firma: **Lic. Alma de Jesús Castillo Ramos, Abogada Titular**. (En la propuesta de feb-2026 salía "Catillo"; en la plantilla se corrigió a "Castillo".)
-- Papelería: logo negro "IL" + INTEGRA LEGAL, línea roja con tres puntos, encabezado de tabla en durazno, franja roja abajo con el teléfono (+66 45 691 337, tal como aparece; confirmar formato).
+- Papelería: logo negro "IL" + INTEGRA LEGAL, línea roja con tres puntos, encabezado de tabla en durazno, franja roja abajo con el teléfono **664 569 1337** (confirmado por Alma el 2026-11-15; en la papelería vieja sale mal como "+66 45 691 337").
 - Falta el archivo del logo en `marca/logo/`; mientras, las plantillas usan el nombre en texto.
 
 **Por qué:** el sistema venía con "Despacho de Alma" genérico; sus documentos reales usan Integra Legal.

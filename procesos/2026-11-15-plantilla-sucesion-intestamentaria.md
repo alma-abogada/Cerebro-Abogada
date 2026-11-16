@@ -6,4 +6,5 @@
   - Muestra en PDF: `entregables/2026-11-15-plantilla-sucesion-intestamentaria/`.
   - Formato documentado: `conocimiento/formatos/propuesta-sucesion-intestamentaria.md`; honorarios en `conocimiento/servicios.md`.
 - **Notas:** se corrigió "Catillo" → "Castillo" y "10.000" → formato de miles. El original se quedó en su escritorio (no se copió).
-- **Pendiente:** logo en `marca/logo/`; confirmar teléfono.
+- **Pendiente:** logo en `marca/logo/`.
+- **Ajuste:** teléfono del pie corregido a 664 569 1337 (lo confirmó Alma).
