@@ -9,6 +9,10 @@
 
 - [ ] Revisar la plantilla de contrato de servicios: cláusulas en verde y lo marcado [verificar]
 
+## Habilidades nuevas por armar (Claude: pregúntale a Alma cuándo trabajarlas)
+- [ ] **Redactor de documentos:** crear documentos, contratos o lo que Alma pida, e ir escribiendo juntas sus reglas (estructura, cláusulas base, estilo, qué nunca debe faltar). Se apoya en lo que ya existe (`al-documento`, `al-contrato-servicios`). (pedido 2026-11-15)
+- [ ] **Auditor de documentos:** revisión previa cuando alguien le entrega un documento a Alma, antes de dárselo al cliente: qué revisar, qué avisarle y en qué formato entregarle las observaciones. Definir juntas la lista de revisión. (pedido 2026-11-15)
+
 ## Lo está haciendo Antetodo
 - [ ] Revisión a la semana de la instalación
 
