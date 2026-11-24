@@ -15,3 +15,4 @@
 - Segundo ajuste: notaría de Tijuana; derechos registrales incluidos (junto con honorarios notariales); "tiempo máximo" de 8 meses. Falta solo la clave catastral (Alma la va a pasar).
 - Clave catastral agregada. Cotización terminada (sin campos pendientes).
 - Ajuste final: se agregan impuestos (si llegaran a aplicar) como no incluidos.
+- Se agrega lista de documentos indispensables para el inicio (identificaciones, acta de matrimonio, actas de nacimiento de las hijas, escritura pública a cargo de Alma). Letra y márgenes un poco más compactos para que siga en una hoja. Alma dijo que podría agregar más documentos.
