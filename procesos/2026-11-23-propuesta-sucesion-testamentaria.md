@@ -16,3 +16,4 @@
 - Clave catastral agregada. Cotización terminada (sin campos pendientes).
 - Ajuste final: se agregan impuestos (si llegaran a aplicar) como no incluidos.
 - Se agrega lista de documentos indispensables para el inicio (identificaciones, acta de matrimonio, actas de nacimiento de las hijas, escritura pública a cargo de Alma). Letra y márgenes un poco más compactos para que siga en una hoja. Alma dijo que podría agregar más documentos.
+- La escritura pública ahora dice que está en proceso de mantenimiento por parte del Registro Público de la Propiedad (se quitó 'responsabilidad de la suscrita'). Alma aceptó que sean 2 hojas: los requisitos, el tiempo y la firma pasan a la segunda.
