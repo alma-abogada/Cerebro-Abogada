@@ -7,3 +7,8 @@
 - **Quedó en:** `privado/entregables/2026-11-23-propuesta-sucesion-testamentaria-MMMS/` (HTML y PDF, no se sube a GitHub).
 - **Faltan (en amarillo):** municipio de la notaría, clave catastral y confirmar el tiempo estimado (8 meses).
 - **Ojo:** el porcentaje de este caso (10% sobre el 50%) es distinto del 20% de referencia de `conocimiento/servicios.md`; es el que pidió Alma para este caso.
+
+## Ajuste del mismo día
+- Pagos: 25% inicial ($65,625), 4 mensualidades de $22,968.75 y la quinta del 40% del total ($105,000). Concepto: "Honorarios".
+- Los honorarios notariales ya van incluidos en el costo; solo quedan fuera los gastos administrativos y la traducción de actas.
+- Por confirmar con Alma: si derechos registrales e impuestos se mencionan como no incluidos.
