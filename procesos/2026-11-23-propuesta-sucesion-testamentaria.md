@@ -1,0 +1,9 @@
+# 2026-11-23 · Propuesta de servicios · sucesión testamentaria (caso M.M.M.S.)
+
+- **Qué pidió:** cotización de sucesorio testamentario ante notaría, con la plantilla de sucesión.
+- **Honorarios:** 10% sobre el 50% del valor de la operación (valor de la operación $5,250,000 → base $2,625,000 → honorarios $262,500).
+- **Forma de pago:** 25% al iniciar ($65,625) y el resto en 5 mensualidades de $39,375.
+- **Cambios frente a la plantilla intestamentaria:** "testamentario"; sin referencia a reunión previa; tabla por mensualidades en lugar de avance procesal; honorarios notariales y gastos administrativos quedan fuera y se cotizan aparte.
+- **Quedó en:** `privado/entregables/2026-11-23-propuesta-sucesion-testamentaria-MMMS/` (HTML y PDF, no se sube a GitHub).
+- **Faltan (en amarillo):** municipio de la notaría, clave catastral y confirmar el tiempo estimado (8 meses).
+- **Ojo:** el porcentaje de este caso (10% sobre el 50%) es distinto del 20% de referencia de `conocimiento/servicios.md`; es el que pidió Alma para este caso.
