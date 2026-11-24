@@ -13,3 +13,4 @@
 - Los honorarios notariales ya van incluidos en el costo; solo quedan fuera los gastos administrativos y la traducción de actas.
 - Por confirmar con Alma: si derechos registrales e impuestos se mencionan como no incluidos.
 - Segundo ajuste: notaría de Tijuana; derechos registrales incluidos (junto con honorarios notariales); "tiempo máximo" de 8 meses. Falta solo la clave catastral (Alma la va a pasar).
+- Clave catastral agregada. Cotización terminada (sin campos pendientes).
