@@ -12,3 +12,4 @@
 - Pagos: 25% inicial ($65,625), 4 mensualidades de $22,968.75 y la quinta del 40% del total ($105,000). Concepto: "Honorarios".
 - Los honorarios notariales ya van incluidos en el costo; solo quedan fuera los gastos administrativos y la traducción de actas.
 - Por confirmar con Alma: si derechos registrales e impuestos se mencionan como no incluidos.
+- Segundo ajuste: notaría de Tijuana; derechos registrales incluidos (junto con honorarios notariales); "tiempo máximo" de 8 meses. Falta solo la clave catastral (Alma la va a pasar).
